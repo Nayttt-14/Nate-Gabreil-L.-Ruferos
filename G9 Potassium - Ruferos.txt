@@ -15,7 +15,14 @@
                 
                 <span>This is the first span.</span>
                 <span>This is the second span.</span>
-				
+
+                <strong>This text is also bold.</strong>
+			        <b>This text is bold.</b>
+				<em>This text is italic.</em>
+				<i>This text is also italic.</i>
+				<p>This part is in <b>bold</b>. This part is in <i>italic.</i></p>
+				<p>This part is both in <b><i>bold and italic. </b></i></p>
+				<==Place content here!==>
 				<==Place content here!==>
          </body>
 </html>
